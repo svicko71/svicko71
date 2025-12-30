@@ -64,10 +64,10 @@ Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interact
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (1 → 5 PLUS)
 
-### 🎮 X Zen — Story-Driven Action Game
-<b>Main Project</b>  
+### 1️⃣ 🎮 X Zen — Story-Driven Action Game
+<b>Main Flagship Project</b>  
 A narrative-driven action game exploring artificial intelligence, war, and future conflicts.  
 - Multi-world system  
 - Advanced enemy AI  
@@ -77,32 +77,42 @@ A narrative-driven action game exploring artificial intelligence, war, and futur
 
 ---
 
-### 🧠 AI-Driven NPC System
-Intelligent NPC behavior system designed for modern games.  
+### 2️⃣ 🧠 AI-Driven NPC System
+Advanced NPC behavior system for modern games.  
 - Decision Trees & State Machines  
-- Dynamic reaction to player actions  
-- Scalable AI architecture  
+- Dynamic reactions to player behavior  
+- Scalable & reusable AI architecture  
 
 🔗 Repo: <i>Coming Soon</i>
 
 ---
 
-### 🕹️ Procedural World Generator
-Algorithmic level generation system focused on replayability.  
-- Procedural maps & events  
+### 3️⃣ 🕹️ Procedural World Generator
+Procedural level generation system focused on replayability.  
+- Algorithmic map generation  
 - AI-assisted difficulty scaling  
-- Performance-optimized logic  
+- Performance-optimized systems  
 
 🔗 Repo: <i>Prototype Phase</i>
 
 ---
 
-### 🌐 Truthless Creative Hub
-Personal portfolio & creative hub.  
-- Showcases games, ideas, and digital projects  
-- Central hub for all platforms  
+### 4️⃣ 🌐 Truthless Creative Hub
+Personal creative & development hub.  
+- Portfolio of games & experiments  
+- Central platform for all projects  
 
 🔗 https://truthless-creative-hub.lovable.app/
+
+---
+
+### 5️⃣ ➕ Game AI Playground (R&D)
+Experimental environment for testing AI concepts in games.  
+- Pathfinding (A*)  
+- Enemy tactics simulation  
+- AI behavior experiments  
+
+🔗 Repo: <i>Planned</i>
 
 ---
 
@@ -113,18 +123,6 @@ Personal portfolio & creative hub.
 <img src="https://img.shields.io/badge/AI%20for%20Games-Specialized-00ffff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Creative%20Technologist-Advanced-444444?style=for-the-badge"/>
 </div>
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=svicko71&theme=dark&show_icons=true&bg_color=0d1117&icon_color=00ffff)
-
----
-
-### 👁 Visitors
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=svicko71)
 
 <br/>
 
