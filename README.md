@@ -2,41 +2,40 @@
 
 <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" width="700"/>
 
-<h1>⚡ Youssef Salama</h1>
+# ⚡ Youssef Salama
 
-<strong>Game Developer • AI-Driven Systems • Creative Technologist</strong>
+**Game Developer • AI Architect • Interactive Systems Engineer**
 
 <br/>
 
-<p>
-I design and build immersive game experiences powered by intelligent systems.<br>
-Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interactive Worlds</b>.
-</p>
+> *Crafting immersive gaming experiences through intelligent systems and cutting-edge technology*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-0d1117?style=for-the-badge)](https://truthless-creative-hub.lovable.app/)
+[![YouTube](https://img.shields.io/badge/🎬_YouTube-Subscribe-FF0000?style=for-the-badge)](https://www.youtube.com/@TruthlessTavern)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/youssef-salama-876959392)
+[![Behance](https://img.shields.io/badge/🎨_Behance-Follow-1769FF?style=for-the-badge)](https://www.behance.net/youssefsalama14)
 
 ---
 
-### 🎮 Core Specialization
+## 🎯 What I Do
 
-🕹️ Game Development (PC / Console)  
-🤖 AI for Games (NPCs, Decision Systems, Behaviors)  
-🌍 World Building & Interactive Storytelling  
-⚙️ Game Systems & Mechanics  
-💻 Performance-Focused Programming  
+I specialize in building next-generation gaming experiences where **artificial intelligence meets interactive storytelling**. My focus lies in creating intelligent game systems that breathe life into virtual worlds.
 
----
+**Core Competencies:**
 
-### 🌐 Connect With Me
-
-<a href="https://truthless-creative-hub.lovable.app/">🌍 Portfolio</a> •
-<a href="https://www.youtube.com/@TruthlessTavern">🎬 YouTube</a> •
-<a href="https://www.tiktok.com/@truthlesstavern1">🎵 TikTok</a> •
-<a href="https://www.linkedin.com/in/youssef-salama-876959392">💼 LinkedIn</a> •
-<a href="https://www.behance.net/youssefsalama14">🎨 Behance</a>
+- 🎮 **Game Development** — PC & Console platforms with performance-first approach
+- 🤖 **Gameplay AI** — Intelligent NPCs, decision systems, and adaptive behaviors
+- 🌍 **World Building** — Immersive environments and dynamic storytelling systems
+- ⚙️ **Systems Design** — Scalable game mechanics and architectural patterns
+- 🔧 **Technical Optimization** — Performance-critical code and efficient algorithms
 
 ---
 
-### 🛠 Game Dev Tech Stack
+## 🛠️ Technology Arsenal
 
+### Game Engines & Languages
 <div>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
@@ -44,88 +43,132 @@ Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interact
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
 
-<br/>
-
+### Specialized Systems
 <div>
-<img src="https://img.shields.io/badge/Gameplay%20AI-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Systems-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Game%20Physics-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gameplay_AI-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Behavior_Trees-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Physics_Engines-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Procedural_Generation-95E1D3?style=for-the-badge"/>
+</div>
+
+### Additional Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="OpenCV"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"></code>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 X Zen — Narrative-Driven Action Experience
+**Flagship Project | In Active Development**
+
+An ambitious story-driven action game exploring themes of artificial intelligence, warfare, and humanity's future.
+
+**Technical Highlights:**
+- Multi-dimensional world system with seamless transitions
+- Advanced enemy AI with adaptive combat behaviors
+- Lore-integrated progression mechanics
+- Dynamic narrator system responding to player choices
+
+📌 *Status: Private Development*
+
+---
+
+### 🧠 Neural NPC Framework
+**AI Architecture System**
+
+A sophisticated behavior system designed for creating believable, reactive NPCs in modern game environments.
+
+**Key Features:**
+- Hierarchical decision trees and finite state machines
+- Context-aware responses to player actions
+- Modular and reusable AI components
+- Performance-optimized for large-scale simulations
+
+📌 *Status: Documentation Phase*
+
+---
+
+### 🗺️ Infinite World Engine
+**Procedural Generation System**
+
+An algorithmic level generation framework focused on creating endless replayability while maintaining design quality.
+
+**Capabilities:**
+- Real-time map generation with customizable parameters
+- AI-powered difficulty adjustment
+- Memory-efficient chunk-based world streaming
+- Seed-based reproducibility for testing
+
+📌 *Status: Prototype Testing*
+
+---
+
+### 🌐 Truthless Creative Hub
+**Digital Portfolio & Showcase**
+
+A centralized platform showcasing my game development journey, experiments, and creative projects.
+
+🔗 **[Visit Hub](https://truthless-creative-hub.lovable.app/)**
+
+---
+
+### 🔬 AI Tactics Laboratory
+**Research & Development Sandbox**
+
+Experimental playground for prototyping and testing advanced AI concepts in interactive environments.
+
+**Research Areas:**
+- Advanced pathfinding algorithms (A*,NavMesh optimization)
+- Squad-based tactical AI
+- Emergent behavior simulation
+- Machine learning integration experiments
+
+📌 *Status: Concept & Planning*
+
+---
+
+## 📊 Development Activity
+
+<div align="center">
+<img src="https://img.shields.io/badge/Game_Developer-Elite-000000?style=for-the-badge&logo=gamepad&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Specialist-Expert-00FFFF?style=for-the-badge&logo=brain&logoColor=black"/>
+<img src="https://img.shields.io/badge/Systems_Engineer-Advanced-FF6B6B?style=for-the-badge&logo=gear&logoColor=white"/>
 </div>
 
 ---
 
-### 🧩 Supporting Stack
+## 💭 Philosophy
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-
----
-
-## 🚀 Featured Projects (1 → 5 PLUS)
-
-### 1️⃣ 🎮 X Zen — Story-Driven Action Game
-<b>Main Flagship Project</b>  
-A narrative-driven action game exploring artificial intelligence, war, and future conflicts.  
-- Multi-world system  
-- Advanced enemy AI  
-- Lore-based progression & narrator system  
-
-🔗 Repo: <i>Private / In Development</i>
+```text
+"Games are not just entertainment—they're interactive experiences 
+that challenge, inspire, and connect us. I don't just build games; 
+I architect worlds where technology and creativity converge."
+```
 
 ---
 
-### 2️⃣ 🧠 AI-Driven NPC System
-Advanced NPC behavior system for modern games.  
-- Decision Trees & State Machines  
-- Dynamic reactions to player behavior  
-- Scalable & reusable AI architecture  
+## 📫 Let's Connect
 
-🔗 Repo: <i>Coming Soon</i>
+I'm always interested in collaborating on innovative gaming projects, discussing AI in games, or sharing knowledge with fellow developers.
 
----
-
-### 3️⃣ 🕹️ Procedural World Generator
-Procedural level generation system focused on replayability.  
-- Algorithmic map generation  
-- AI-assisted difficulty scaling  
-- Performance-optimized systems  
-
-🔗 Repo: <i>Prototype Phase</i>
+**Reach out:**
+- 💼 Professional inquiries: [LinkedIn](https://www.linkedin.com/in/youssef-salama-876959392)
+- 🎨 Creative work: [Behance](https://www.behance.net/youssefsalama14)
+- 🎬 Video content: [YouTube](https://www.youtube.com/@TruthlessTavern)
+- 🌍 Portfolio: [Creative Hub](https://truthless-creative-hub.lovable.app/)
 
 ---
 
-### 4️⃣ 🌐 Truthless Creative Hub
-Personal creative & development hub.  
-- Portfolio of games & experiments  
-- Central platform for all projects  
+<div align="center">
 
-🔗 https://truthless-creative-hub.lovable.app/
+*"Engineering tomorrow's gaming experiences, today."*
 
----
+<sub>⚡ Powered by passion, precision, and endless curiosity</sub>
 
-### 5️⃣ ➕ Game AI Playground (R&D)
-Experimental environment for testing AI concepts in games.  
-- Pathfinding (A*)  
-- Enemy tactics simulation  
-- AI behavior experiments  
-
-🔗 Repo: <i>Planned</i>
-
----
-
-### 🏅 Professional Badges
-
-<div>
-<img src="https://img.shields.io/badge/Game%20Developer-Elite-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20for%20Games-Specialized-00ffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creative%20Technologist-Advanced-444444?style=for-the-badge"/>
 </div>
-
-<br/>
-
-<sub>“I don’t just play games — I engineer worlds.”</sub>
 
 </div>
