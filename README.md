@@ -1,59 +1,122 @@
 <div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
 
-<br />
+<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" width="700"/>
 
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
+<h1>⚡ Youssef Salama</h1>
 
-<br/>
-<br/>
-
-### **Having fun with these stack 👨🏽‍💻**
+<strong>Game Developer • AI-Driven Systems • Creative Technologist</strong>
 
 <br/>
+
+<p>
+I design and build immersive game experiences powered by intelligent systems.<br>
+Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interactive Worlds</b>.
+</p>
+
+---
+
+### 🎮 Core Specialization
+
+🕹️ Game Development (PC / Console)  
+🤖 AI for Games (NPCs, Decision Systems, Behaviors)  
+🌍 World Building & Interactive Storytelling  
+⚙️ Game Systems & Mechanics  
+💻 Performance-Focused Programming  
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://truthless-creative-hub.lovable.app/">🌍 Portfolio</a> •
+<a href="https://www.youtube.com/@TruthlessTavern">🎬 YouTube</a> •
+<a href="https://www.linkedin.com/in/youssef-salama-876959392">💼 LinkedIn</a> •
+<a href="https://www.behance.net/youssefsalama14">🎨 Behance</a>
+
+---
+
+### 🛠 Game Dev Tech Stack
+
 <div>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
+
 <br/>
+
 <div>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gameplay%20AI-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Systems-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Physics-444444?style=for-the-badge"/>
 </div>
-<br/>
+
+---
+
+### 🧩 Supporting Stack
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Driven NPC System
+**Smart NPC behavior using decision trees & ML concepts**  
+- Dynamic reactions to player actions  
+- Modular AI logic (scalable)  
+- Designed for RPG & Action games  
+
+🔗 *Repo coming soon*
+
+---
+
+### 🎮 X Zen — Story-Driven Action Game
+**Narrative-heavy action game exploring AI & future conflicts**  
+- Multi-world system  
+- Advanced enemy AI  
+- Deep lore & cinematic storytelling  
+
+🔗 *In active development*
+
+---
+
+### 🕹️ Procedural World Generator
+**Algorithmic level generation for replayability**  
+- Randomized maps & events  
+- Optimized for performance  
+- AI-assisted difficulty scaling  
+
+🔗 *Prototype phase*
+
+---
+
+### 🏅 Professional Badges
+
 <div>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game%20Developer-Elite-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20for%20Games-Specialized-00ffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative%20Coder-Advanced-444444?style=for-the-badge"/>
 </div>
 
-<br/>
+---
 
-### and more >w<
+### 📊 GitHub Stats
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![Stats](https://github-readme-stats.vercel.app/api?username=svicko71&theme=dark&show_icons=true&bg_color=0d1117&icon_color=00ffff)
 
-<br/>
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+### 👁 Visitors
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=svicko71)
 
 <br/>
 
-### Can you break this counter?
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kelvinosse)
+<sub>“I don’t just play games — I engineer worlds.”</sub>
 
 </div>
