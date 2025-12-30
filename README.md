@@ -29,6 +29,7 @@ Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interact
 
 <a href="https://truthless-creative-hub.lovable.app/">🌍 Portfolio</a> •
 <a href="https://www.youtube.com/@TruthlessTavern">🎬 YouTube</a> •
+<a href="https://www.tiktok.com/@truthlesstavern1">🎵 TikTok</a> •
 <a href="https://www.linkedin.com/in/youssef-salama-876959392">💼 LinkedIn</a> •
 <a href="https://www.behance.net/youssefsalama14">🎨 Behance</a>
 
@@ -65,33 +66,43 @@ Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interact
 
 ## 🚀 Featured Projects
 
-### 🧠 AI-Driven NPC System
-**Smart NPC behavior using decision trees & ML concepts**  
-- Dynamic reactions to player actions  
-- Modular AI logic (scalable)  
-- Designed for RPG & Action games  
+### 🎮 X Zen — Story-Driven Action Game
+<b>Main Project</b>  
+A narrative-driven action game exploring artificial intelligence, war, and future conflicts.  
+- Multi-world system  
+- Advanced enemy AI  
+- Lore-based progression & narrator system  
 
-🔗 *Repo coming soon*
+🔗 Repo: <i>Private / In Development</i>
 
 ---
 
-### 🎮 X Zen — Story-Driven Action Game
-**Narrative-heavy action game exploring AI & future conflicts**  
-- Multi-world system  
-- Advanced enemy AI  
-- Deep lore & cinematic storytelling  
+### 🧠 AI-Driven NPC System
+Intelligent NPC behavior system designed for modern games.  
+- Decision Trees & State Machines  
+- Dynamic reaction to player actions  
+- Scalable AI architecture  
 
-🔗 *In active development*
+🔗 Repo: <i>Coming Soon</i>
 
 ---
 
 ### 🕹️ Procedural World Generator
-**Algorithmic level generation for replayability**  
-- Randomized maps & events  
-- Optimized for performance  
+Algorithmic level generation system focused on replayability.  
+- Procedural maps & events  
 - AI-assisted difficulty scaling  
+- Performance-optimized logic  
 
-🔗 *Prototype phase*
+🔗 Repo: <i>Prototype Phase</i>
+
+---
+
+### 🌐 Truthless Creative Hub
+Personal portfolio & creative hub.  
+- Showcases games, ideas, and digital projects  
+- Central hub for all platforms  
+
+🔗 https://truthless-creative-hub.lovable.app/
 
 ---
 
@@ -100,7 +111,7 @@ Focused on <b>Game Development</b>, <b>Gameplay AI</b>, and <b>Next-Gen Interact
 <div>
 <img src="https://img.shields.io/badge/Game%20Developer-Elite-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20for%20Games-Specialized-00ffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creative%20Coder-Advanced-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative%20Technologist-Advanced-444444?style=for-the-badge"/>
 </div>
 
 ---
