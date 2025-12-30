@@ -248,44 +248,8 @@ gantt
 
 Use this template structure for your game development projects:
 
-```markdown
-# 🎮 Project Name
 
-## 📖 Overview
-Brief description of the game or system. What makes it unique?
 
-## ✨ Features
-- 🎯 Feature 1: Description
-- 🤖 Feature 2: Description
-- 🌍 Feature 3: Description
-
-## 🛠️ Tech Stack
-- **Engine:** Unity / Unreal Engine
-- **Language:** C# / C++
-- **Tools:** Git, Visual Studio, etc.
-
-## 📸 Screenshots / Demo
-![Screenshot](link-to-image.png)
-![Demo GIF](link-to-demo.gif)
-
-## 🚀 Getting Started
-1. Clone the repository
-2. Open in [Engine Name]
-3. Run the project
-
-## 📊 Status
-🚧 In Development / ✅ Completed / 🔄 Maintenance
-
-## 👤 Author
-**Youssef Salama**
-- 🌍 [Portfolio](https://truthless-creative-hub.lovable.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-salama-876959392)
-
-## 📄 License
-MIT License (or your preferred license)
-```
-
----
 
 ## 💡 Skills & Expertise
 
