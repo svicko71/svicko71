@@ -348,7 +348,6 @@ I'm always interested in collaborating on innovative gaming projects, discussing
 - 💼 **Professional Inquiries:** [LinkedIn](https://www.linkedin.com/in/youssef-abdelhamed-salama)
 - 🎨 **Creative Work:** [Behance](https://www.behance.net/youssefsalama14)
 - 🎬 **Video Content:** [YouTube](https://www.youtube.com/@TruthlessTavern)
-- 🎵 **Short Content:** [TikTok](https://www.tiktok.com/@truthlesstavern1)
 - 🌍 **Portfolio:** [Creative Hub](https://youssefsalama.lovable.app/)
 
 ---
