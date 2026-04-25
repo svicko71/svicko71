@@ -61,9 +61,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-0d1117?style=for-the-badge)](https://truthless-creative-hub.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-0d1117?style=for-the-badge)](https://youssefsalama.lovable.app)
 [![YouTube](https://img.shields.io/badge/🎬_YouTube-Subscribe-FF0000?style=for-the-badge)](https://www.youtube.com/@TruthlessTavern)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/youssef-salama-876959392)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/youssef-abdelhamed-salama)
 [![Behance](https://img.shields.io/badge/🎨_Behance-Follow-1769FF?style=for-the-badge)](https://www.behance.net/youssefsalama14)
 
 ---
@@ -163,7 +163,7 @@ An algorithmic level generation framework focused on creating endless replayabil
 
 A centralized platform showcasing my game development journey, experiments, and creative projects.
 
-🔗 **[Visit Hub](https://truthless-creative-hub.lovable.app/)**
+🔗 **[Visit Hub](https://youssefsalama.lovable.app/)**
 
 ---
 
@@ -345,11 +345,11 @@ I'm always interested in collaborating on innovative gaming projects, discussing
 
 **Let's Connect:**
 
-- 💼 **Professional Inquiries:** [LinkedIn](https://www.linkedin.com/in/youssef-salama-876959392)
+- 💼 **Professional Inquiries:** [LinkedIn](https://www.linkedin.com/in/youssef-abdelhamed-salama)
 - 🎨 **Creative Work:** [Behance](https://www.behance.net/youssefsalama14)
 - 🎬 **Video Content:** [YouTube](https://www.youtube.com/@TruthlessTavern)
 - 🎵 **Short Content:** [TikTok](https://www.tiktok.com/@truthlesstavern1)
-- 🌍 **Portfolio:** [Creative Hub](https://truthless-creative-hub.lovable.app/)
+- 🌍 **Portfolio:** [Creative Hub](https://youssefsalama.lovable.app/)
 
 ---
 
